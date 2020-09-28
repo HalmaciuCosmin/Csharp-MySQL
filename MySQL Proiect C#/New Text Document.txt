@@ -1,0 +1,1 @@
+Administrare angajati, export pdf fluturas, import-export json, criptare date, operatii SQL.
